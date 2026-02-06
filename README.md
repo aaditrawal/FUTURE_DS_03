@@ -1,6 +1,7 @@
 # FUTURE_DS_03
-
 Ecommerce Sales Analysis Dashboard 
+
+
 Project Objective
 To analyze ecommerce sales data and understand:
 • Total sales, quantity, profit, and AOV
@@ -31,3 +32,4 @@ Key Insights From the Dashboard
 ✔ Uttar Pradesh leads in overall profit contribution
 ✔ Profit shows strong spikes in January and November
 ✔ A few key customers contribute a large portion of revenue
+
